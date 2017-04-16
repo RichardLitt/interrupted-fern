@@ -1,3 +1,3 @@
 all:
 	hugo version
-	hugo_v0.2 -v
+	hugo_v0.19 -v
